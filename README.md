@@ -1,13 +1,13 @@
- Healthcare Claims & Readmission Analytics (2011–2022)
+ ##Healthcare Claims & Readmission Analytics (2011–2022)
 
-Project Overview:
+##Project Overview:
 
 This project analyzes healthcare claims data from 2011 to 2022 to identify cost drivers, patient utilization patterns, payer contributions, and operational trends using Power BI.
 
 The workflow includes data cleaning with Power Query, relational data modeling with enforced referential integrity, and DAX-based KPI development to generate executive-level insights.
 
 
-Executive Summary:
+##Executive Summary:
 
 Between 2011 and 2022:
 
@@ -24,7 +24,7 @@ Uninsured Rate: 48.71%
 Uninsured Patients: 14K
 
 
-Key Observations:
+##Key Observations:
 
 Healthcare costs are highly concentrated among a small group of patients, with the top contributors accounting for a significant portion of total claims.
 
@@ -37,7 +37,7 @@ Nearly half of patients are uninsured, posing potential financial sustainability
 Claim costs fluctuate across years, with noticeable peaks suggesting variations in case complexity or patient volume.
 
 
-Recommendations:
+##Recommendations:
 
 1. Implement targeted care management programs for high-cost patients to reduce repeat high-expense encounters.
 
@@ -54,7 +54,7 @@ Recommendations:
 5. Introduce predictive monitoring dashboards to detect abnormal cost spikes early.
 
 
-Data Modeling:
+##Data Modeling:
 
 Fact Table: Encounters
 
@@ -79,11 +79,11 @@ Relational Data Modeling
 Time Intelligence
 
 
-Dashboard Preview
+##Dashboard Preview
 
 (Upload final dashboard screenshot here)
 
 
-Data Model View
+##Data Model View
 
 (Upload model view screenshot here)
