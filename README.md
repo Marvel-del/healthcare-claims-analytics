@@ -80,7 +80,7 @@ Time Intelligence
 
 
 ## Dashboard Preview
-  ![Dashboard Preview](Screenshot%20(130).png)
+  ![Dashboard Preview](dashboard_preview.png)
 
 ## Data Model View
-  ![Data Model View](hospitaldata%20model.png)
+   ![Data Model View](data_model_view.png)
